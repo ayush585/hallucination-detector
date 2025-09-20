@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# ---- Virtual Environments ----
+venv/
+backend/venv/
+frontend/venv/
+.env
+*.env
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+.streamlit/
+
+# ---- VSCode / IDE ----
+.vscode/
+.idea/
+
+# ---- Data & Cache ----
+data/embeddings/
+*.log
+*.pickle
+*.pkl
+*.cache
+
+# ---- OS Specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Node / Frontend (if added later) ----
+node_modules/
+dist/
+build/
