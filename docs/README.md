@@ -6,6 +6,15 @@ This system detects and flags **hallucinations** in AI-generated answers in **re
 
 ---
 
+### Quick Judge Guide
+1) Start backend: `cd backend && pip install -r requirements.txt && uvicorn app:app --host 127.0.0.1 --port 8000`
+2) Start frontend: `cd frontend && pip install -r requirements.txt && python -m streamlit run streamlit_app.py`
+3) Try:
+   - Q: "Who founded SpaceX?"
+   - A: "Jeff Bezos founded SpaceX."
+   Expect: Unverifiable/Suspected, rationale + evidence + counter-evidence.
+
+
 ## 📂 Project Structure
 
 ```

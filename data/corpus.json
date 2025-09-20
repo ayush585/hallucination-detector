@@ -10,5 +10,161 @@
     {
         "id": 3,
         "text": "The capital of France is Paris."
+    },
+    {
+        "id": 4,
+        "text": "Google was founded in 1998 by Larry Page and Sergey Brin."
+    },
+    {
+        "id": 5,
+        "text": "Apple introduced the iPhone in 2007, created under the leadership of Steve Jobs."
+    },
+    {
+        "id": 6,
+        "text": "Microsoft was founded by Bill Gates and Paul Allen in 1975."
+    },
+    {
+        "id": 7,
+        "text": "Tesla was founded in 2003, with Elon Musk as an early investor and later CEO."
+    },
+    {
+        "id": 8,
+        "text": "Amazon was founded in 1994 by Jeff Bezos as an online bookstore."
+    },
+    {
+        "id": 9,
+        "text": "OpenAI released ChatGPT to the public in November 2022."
+    },
+    {
+        "id": 10,
+        "text": "NVIDIA is a leading company in GPUs, founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem."
+    },
+    {
+        "id": 11,
+        "text": "Bitcoin, the first cryptocurrency, was introduced in 2009 by Satoshi Nakamoto."
+    },
+    {
+        "id": 12,
+        "text": "Ethereum was proposed in 2013 by Vitalik Buterin and launched in 2015."
+    },
+    {
+        "id": 13,
+        "text": "The United Nations was founded in 1945 after World War II."
+    },
+    {
+        "id": 14,
+        "text": "The COVID-19 pandemic began in late 2019, caused by the SARS-CoV-2 virus."
+    },
+    {
+        "id": 15,
+        "text": "The iPad was first released by Apple in 2010."
+    },
+    {
+        "id": 16,
+        "text": "Google acquired YouTube in 2006 for $1.65 billion in stock."
+    },
+    {
+        "id": 17,
+        "text": "Facebook, now Meta, was founded in 2004 by Mark Zuckerberg and fellow Harvard students."
+    },
+    {
+        "id": 18,
+        "text": "Instagram was acquired by Facebook in 2012 for approximately $1 billion."
+    },
+    {
+        "id": 19,
+        "text": "India gained independence from British rule on August 15, 1947."
+    },
+    {
+        "id": 20,
+        "text": "The Euro became the official currency of 11 European countries in 1999."
+    },
+    {
+        "id": 21,
+        "text": "ChatGPT is built on OpenAI's GPT-3.5 and GPT-4 language models."
+    },
+    {
+        "id": 22,
+        "text": "Claude AI is developed by Anthropic as a safer AI assistant."
+    },
+    {
+        "id": 23,
+        "text": "Threads by Meta launched in July 2023 as a Twitter competitor."
+    },
+    {
+        "id": 24,
+        "text": "X, formerly Twitter, was acquired by Elon Musk in October 2022 for $44 billion."
+    },
+    {
+        "id": 25,
+        "text": "The FIFA World Cup 2022 was hosted by Qatar, with Argentina winning the tournament."
+    },
+    {
+        "id": 26,
+        "text": "Lionel Messi won the Golden Ball award at the FIFA World Cup 2022."
+    },
+    {
+        "id": 27,
+        "text": "India successfully landed Chandrayaan-3 on the Moon in 2023, near the lunar south pole."
+    },
+    {
+        "id": 28,
+        "text": "ISRO launched Aditya-L1 in 2023 as India's first solar observatory mission."
+    },
+    {
+        "id": 29,
+        "text": "The iPhone 15 series was released by Apple in September 2023."
+    },
+    {
+        "id": 30,
+        "text": "Microsoft acquired LinkedIn in 2016 for $26.2 billion."
+    },
+    {
+        "id": 31,
+        "text": "Microsoft acquired GitHub in 2018 for $7.5 billion."
+    },
+    {
+        "id": 32,
+        "text": "The global AI market size surpassed $200 billion in 2023 and continues growing rapidly."
+    },
+    {
+        "id": 33,
+        "text": "The Indian stock market's Sensex index crossed 70,000 points in December 2023."
+    },
+    {
+        "id": 34,
+        "text": "Sam Altman is the CEO of OpenAI as of 2024."
+    },
+    {
+        "id": 35,
+        "text": "Google Bard is a conversational AI developed by Google, released in 2023."
+    },
+    {
+        "id": 36,
+        "text": "Microsoft Copilot integrates AI into Office tools like Word and Excel, announced in 2023."
+    },
+    {
+        "id": 37,
+        "text": "India hosted the G20 summit in New Delhi in September 2023."
+    },
+    {
+        "id": 38,
+        "text": "The Russo-Ukrainian War escalated in 2022 when Russia launched a full-scale invasion."
+    },
+    {
+        "id": 39,
+        "text": "The iPhone SE (3rd generation) was released by Apple in 2022."
+    },
+    {
+        "id": 40,
+        "text": "Claude 2, Anthropic's advanced model, launched in 2023."
+    },
+    {
+        "id": 41,
+        "text": "Apple Vision Pro, a mixed reality headset, was announced in June 2023."
+    },
+    {
+        "id": 42,
+        "text": "India won the 2023 Asia Cup cricket tournament."
     }
 ]
